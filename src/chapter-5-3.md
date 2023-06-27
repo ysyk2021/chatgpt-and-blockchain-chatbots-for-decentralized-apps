@@ -5,13 +5,6 @@ Chatbots are becoming an increasingly popular tool for businesses to engage with
 
 One powerful tool for creating chatbots is ChatGPT, an AI language model that has been trained on massive amounts of text data, allowing it to generate human-like responses to user queries.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an open-source language model developed by OpenAI. It is based on the GPT-2 model, which was trained on a large corpus of text data to generate human-like responses to prompts.
-
-ChatGPT takes this concept one step further by focusing specifically on conversational AI, allowing developers to create chatbots that can hold natural, human-like conversations with users.
-
 How Can ChatGPT be Used for Developing Chatbots for Decentralized Apps?
 -----------------------------------------------------------------------
 
