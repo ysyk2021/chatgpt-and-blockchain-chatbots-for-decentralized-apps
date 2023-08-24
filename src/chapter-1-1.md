@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 The intersection of artificial intelligence (AI), chatbots, and blockchain technology has opened up exciting new possibilities for decentralized apps (dApps). In this book, we will explore the role of ChatGPT in developing chatbots for dApps.
 

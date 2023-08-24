@@ -1,5 +1,3 @@
-Common challenges faced by developers
-=============================================================================================
 
 Developing decentralized apps (dApps) can present several challenges for developers. In this chapter, we will discuss some of the most common challenges faced by developers when developing dApps.
 

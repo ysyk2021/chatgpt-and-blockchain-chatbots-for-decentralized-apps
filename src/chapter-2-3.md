@@ -1,5 +1,3 @@
-Importance of decentralized apps and their potential impact on industries
-=====================================================================================================================
 
 In this chapter, we will provide an overview of blockchain technology and its importance in creating decentralized apps (dApps). We will examine the potential impact of dApps on various industries and highlight the benefits of using blockchain technology.
 

@@ -1,5 +1,3 @@
-Explanation of Blockchain Technology and Its Importance
-=====================================================================
 
 Blockchain technology is a decentralized, distributed ledger that records transactions across a network of computers. Each block in the chain contains a cryptographic hash of the previous block, ensuring the integrity and security of the system.
 

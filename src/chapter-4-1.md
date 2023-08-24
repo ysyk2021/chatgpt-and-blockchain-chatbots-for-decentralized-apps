@@ -1,5 +1,3 @@
-Introduction to AI and chatbots
-=============================================================================================
 
 In this chapter, we will introduce the role of AI and chatbots in decentralized apps (dApps) and explore their potential benefits. We will discuss the basics of AI and chatbot technology and how they can be applied within dApps.
 

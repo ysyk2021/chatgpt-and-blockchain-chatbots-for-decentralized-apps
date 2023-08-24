@@ -1,5 +1,3 @@
-Chapter 1: Basics of Blockchain Technology
-==========================================
 
 In this chapter, we will provide an overview of blockchain technology. We will define what blockchain is, explore the different types of blockchain systems, and discuss the importance of decentralized apps (dApps) and their potential impact on industries.
 

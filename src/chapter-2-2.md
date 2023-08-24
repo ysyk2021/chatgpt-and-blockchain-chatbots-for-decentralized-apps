@@ -1,5 +1,3 @@
-Different Types of Blockchain Systems
-=================================================================================
 
 There are different types of blockchain systems, each with its own unique characteristics and use cases. In this chapter, we will explore the three main types of blockchain systems: public blockchains, private blockchains, and consortium blockchains.
 
@@ -30,5 +28,4 @@ Conclusion
 Blockchain technology provides a decentralized, secure, and transparent way to record transactions. There are different types of blockchain systems, including public, private, and consortium blockchains, each with its own unique characteristics and use cases.
 
 By understanding the differences between these types of blockchain systems, developers can choose the best solution for their specific needs and create innovative solutions that provide enhanced security, efficiency, and transparency compared to traditional centralized systems.
-
 

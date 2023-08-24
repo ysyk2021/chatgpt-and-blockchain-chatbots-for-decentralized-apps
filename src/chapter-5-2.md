@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a state-of-the-art language model developed by OpenAI that has shown remarkable proficiency in generating human-like responses to natural language queries. In this chapter, we will explore the features and capabilities of ChatGPT.
 

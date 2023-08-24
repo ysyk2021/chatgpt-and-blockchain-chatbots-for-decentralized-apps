@@ -1,5 +1,3 @@
-Factors affecting development of decentralized apps
-===========================================================================================================
 
 In this chapter, we will examine the various factors that affect the development of decentralized apps (dApps). We will explore how these factors impact the design and implementation of dApps and the challenges they pose to developers.
 

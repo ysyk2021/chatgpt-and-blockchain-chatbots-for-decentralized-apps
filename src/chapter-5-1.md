@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is a state-of-the-art language model developed by OpenAI. It is based on the Generative Pre-trained Transformer (GPT) architecture and has shown remarkable proficiency in generating human-like responses to natural language queries.
 
