@@ -10,3 +10,7 @@ This book is intended for developers, entrepreneurs, and anyone interested in th
 In the following chapters, we will delve deeper into the world of chatbots and their potential applications in the blockchain ecosystem. We hope that by the end of this book, you will have a better understanding of how chatbots can be leveraged to create innovative and secure decentralized applications in the blockchain industry.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
