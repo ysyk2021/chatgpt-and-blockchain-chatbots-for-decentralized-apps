@@ -1,5 +1,4 @@
-Chapter 9: Benefits of Using AI and Chatbots for Decentralized Apps
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that arise from incorporating artificial intelligence (AI) and chatbot technologies into decentralized applications (dApps). These technologies offer unique advantages that can enhance user experiences, streamline workflows, and drive innovation within the dApp ecosystem.
 

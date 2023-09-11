@@ -1,5 +1,4 @@
-Chapter 15: Potential Advancements in Decentralized Apps with ChatGPT
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Decentralized apps (dApps) have witnessed remarkable growth and adoption in recent years, revolutionizing various industries. With the integration of ChatGPT, a powerful language model developed by OpenAI, decentralized apps can unlock even more potential. In this chapter, we explore the potential advancements that ChatGPT can bring to dApps.
 

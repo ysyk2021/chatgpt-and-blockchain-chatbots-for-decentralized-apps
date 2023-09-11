@@ -1,5 +1,4 @@
-Chapter 17: Emerging Trends and Challenges in Decentralized Apps and ChatGPT
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As the integration of ChatGPT and blockchain chatbots continues to shape decentralized apps (dApps), several emerging trends and challenges are worth exploring. In this chapter, we delve into these trends and challenges to provide insights into the future of dApps and their interaction with ChatGPT.
 

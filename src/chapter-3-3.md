@@ -1,5 +1,4 @@
-Chapter 5: Impact of These Challenges on User Adoption and Acceptance
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The challenges associated with integrating ChatGPT and blockchain chatbots into decentralized apps (dApps) have a significant impact on user adoption and acceptance. In this chapter, we explore how these challenges influence users' willingness to embrace and utilize chatbot-driven dApps.
 

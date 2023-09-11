@@ -1,5 +1,4 @@
-Chapter 3: Factors Affecting the Development of Decentralized Apps
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Developing decentralized apps (dApps) that incorporate ChatGPT and blockchain chatbots involves considering various factors that can impact the development process. In this chapter, we explore some key factors that influence the development of dApps and discuss their implications.
 

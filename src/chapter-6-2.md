@@ -1,5 +1,4 @@
-Chapter 8: Best Practices for Using ChatGPT in Improving User Experience
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, combined with blockchain technology, has the potential to enhance user experiences in decentralized applications (dApps). This chapter explores best practices for leveraging ChatGPT to improve user experience in dApps, ensuring seamless interactions and satisfying user engagement.
 

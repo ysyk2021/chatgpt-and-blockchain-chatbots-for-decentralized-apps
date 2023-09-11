@@ -1,5 +1,4 @@
-Chapter 13: Different Types of Blockchain Systems
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Blockchain technology has evolved over the years, giving rise to various types of blockchain systems. In this chapter, we will explore the different types of blockchain systems and their unique characteristics.
 

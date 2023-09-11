@@ -1,5 +1,4 @@
-Chapter 4: Common Challenges Faced by Developers
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Developing chatbot-driven decentralized apps (dApps) that leverage ChatGPT and blockchain technology presents unique challenges for developers. In this chapter, we explore some of the common hurdles faced by developers and discuss strategies to overcome them.
 

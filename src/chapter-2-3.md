@@ -1,5 +1,4 @@
-Chapter 12: Importance of Decentralized Apps and Their Potential Impact on Industries
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Decentralized applications (dApps) have emerged as transformative tools that leverage blockchain and other decentralized technologies to revolutionize various industries. In this chapter, we will explore the importance of dApps and their potential impact on industries across the board.
 

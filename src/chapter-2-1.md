@@ -1,5 +1,4 @@
-Chapter 11: Definition of Blockchain Technology
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Blockchain technology is a revolutionary concept that has gained significant attention in recent years. In this chapter, we will explore the definition of blockchain technology, its key characteristics, and its role in decentralized applications (dApps).
 

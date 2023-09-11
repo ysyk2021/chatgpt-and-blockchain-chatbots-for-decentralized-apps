@@ -1,5 +1,4 @@
-Chapter 10: How AI and Chatbots Can Improve User Experience with Decentralized Apps
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how the integration of artificial intelligence (AI) and chatbots can significantly enhance the user experience (UX) within decentralized applications (dApps). These technologies offer unique capabilities that can streamline user interactions, provide personalized assistance, and foster engagement, ultimately driving greater satisfaction and adoption of dApps.
 

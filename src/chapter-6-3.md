@@ -1,5 +1,4 @@
-Chapter 7: Case Studies of Successful Implementation of ChatGPT in Decentralized Apps
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine real-world case studies of decentralized app (dApp) developers who have successfully implemented ChatGPT in their services. These case studies highlight the benefits, challenges, and innovative use cases of integrating ChatGPT into different types of dApps.
 

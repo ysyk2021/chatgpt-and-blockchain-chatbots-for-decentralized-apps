@@ -1,5 +1,4 @@
-Chapter 14: How ChatGPT can be Used for Developing Chatbots for Decentralized Apps
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Chatbots have become increasingly popular in various industries, providing automated conversational interfaces to interact with users. With the emergence of decentralized apps (dApps), integrating chatbots into these applications can enhance user experiences and provide valuable assistance. In this chapter, we will explore how ChatGPT can be used for developing chatbots specifically designed for decentralized apps.
 

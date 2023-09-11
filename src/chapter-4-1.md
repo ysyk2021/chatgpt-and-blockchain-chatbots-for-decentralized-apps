@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) and chatbots have revolutionized the way we interact with technology and are increasingly being integrated into decentralized applications (dApps) through blockchain technology. This chapter serves as an introduction to AI and chatbots, exploring their fundamental concepts, capabilities, and the value they bring to dApps.
 

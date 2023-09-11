@@ -1,5 +1,4 @@
-Chapter 16: Features and Capabilities of ChatGPT
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, developed by OpenAI, is an advanced language model that brings powerful features and capabilities to the world of decentralized apps (dApps). In this chapter, we explore the key features and capabilities of ChatGPT that make it an ideal choice for building chatbots for dApps.
 

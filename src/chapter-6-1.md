@@ -1,5 +1,4 @@
-Chapter 8: Steps to Implement ChatGPT in Decentralized Apps
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the key steps involved in implementing ChatGPT in decentralized applications (dApps). These steps provide a high-level overview of the process and can serve as a guide for developers looking to integrate ChatGPT into their own dApp projects.
 
